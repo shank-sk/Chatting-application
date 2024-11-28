@@ -18,6 +18,9 @@ A simple chat application built in Java using **Swing** for the graphical user i
 - **Basic Networking Knowledge**: Understanding of sockets and ports.
 
 ---
+## Screenshot
+![image](https://github.com/user-attachments/assets/3449258d-33b5-4b0f-8f76-d50f578a6429)
+
 
 ## How to Run
 
